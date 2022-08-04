@@ -2,6 +2,22 @@
 
 
 
+usar para experiemntar static code analyser
+
+função para modificar ou criar um novo registo é igual. Só tenho que dizer que 
+
+criar menu com switch para o utilizador ter escolha no que quer
+
+ordenar mehor as funções
+d - create register  - count +1
+
+
+
+
+
+
+
+
 -----
 
 # Project's Title
