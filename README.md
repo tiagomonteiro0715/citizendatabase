@@ -2,7 +2,8 @@
 
 
 
-usar para experiemntar static code analyser
+
+usar para experiemntar static code analyser + criar j
 
 função para modificar ou criar um novo registo é igual. Só tenho que dizer que 
 
